@@ -4,7 +4,7 @@ La Brasa Gamberra ya tiene una base visual publica: landing, navegacion, paginas
 
 ## Autoria
 
-Proyecto disenado y desarrollado al completo por **Jose Luis Cabanas** (**UlysesX12**). Si se reutiliza, publica o presenta este trabajo, debe mantenerse el credito al autor original.
+Proyecto disenado y desarrollado al completo por **JLC-DevLab** (**JLC-DevLab**). Si se reutiliza, publica o presenta este trabajo, debe mantenerse el credito al autor original.
 
 ## Pendiente antes de producción
 
