@@ -2,7 +2,7 @@
 
 Web para una marca de smash burgers con estética rock, vídeo de presentación, carta y prototipo de gestión de pedidos.
 
-**Proyecto de José Luis Cabañas (UlysesX12).** Los créditos del proyecto abarcan dirección visual, experiencia web y desarrollo propio; Astro, Tailwind y las demás dependencias conservan su autoría.
+**Proyecto de JLC-DevLab.** Los créditos del proyecto abarcan dirección visual, experiencia web y desarrollo propio; Astro, Tailwind y las demás dependencias conservan su autoría.
 
 ## Estado y alcance
 
@@ -42,10 +42,10 @@ npm run preview
 
 ## Créditos y reutilización
 
-Conserva el crédito visible a José Luis Cabañas / UlysesX12. El repositorio no incluye actualmente un archivo LICENSE; el crédito no sustituye los permisos necesarios para reutilizar o distribuir el trabajo. Las dependencias tienen sus propias condiciones.
+Conserva el crédito visible a JLC-DevLab. El repositorio no incluye actualmente un archivo LICENSE; el crédito no sustituye los permisos necesarios para reutilizar o distribuir el trabajo. Las dependencias tienen sus propias condiciones.
 
 Esta revisión actualiza la documentación a partir del código disponible; no incorpora una nueva validación de ejecución.
 
 ## Más proyectos
 
-Consulta el [catálogo de proyectos públicos](https://github.com/UlysesX12/WebSite/blob/main/docs/PROYECTOS.md).
+Consulta el [catálogo de proyectos públicos](https://github.com/JLC-DevLab/WebSite/blob/main/docs/PROYECTOS.md).
